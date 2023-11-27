@@ -610,7 +610,7 @@ footer{
   display: flex;
   flex-direction: column;
   width: 80vw;
-  height: 150vh;
+  height: 200vh;
   justify-content: space-between;
   align-items: center;
   margin-bottom: 10%;
@@ -710,9 +710,8 @@ footer{
   padding: 3em;
   margin: 0 auto;
   width: 90vw;
-  height: 70vh;
+  height: 90vh;
   border-radius: 20px ;
-  
   margin: auto;
   background-color:#F2EFE9;
   color: #fff;
@@ -722,7 +721,7 @@ footer{
 }
 .contactainer-contact{
   width: 750px;
-  height: 700px;
+  height: 900px;
   bottom: 0px;
   
   
@@ -735,6 +734,7 @@ footer{
 }
 
 .contact-form{
+  border:1px solid red;
  display: flex;
   margin: auto;
   flex-direction: column;
