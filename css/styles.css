@@ -444,8 +444,8 @@ footer{
   .menu li a {
     text-decoration: none;
     padding: 10px 20px;
-   font-size: 9px;
-   margin-left: -10px;
+   font-size: 15px;
+   margin-left: -20px;
   }
   .menu{
     display: flex;
